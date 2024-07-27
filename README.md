@@ -4,8 +4,8 @@
 ### 1. Clone the Repository:
 
 ```
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/Satyam031199/react-firebase-docker.git
+cd react-firebase-docker
 ```
 ### 2. Build the Docker Image:
 Make sure you have Docker installed and running on your local machine. Then, build the Docker image from the Dockerfile provided in the repository:
